@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "email": "hereperry@outlook.fr",
+      "password": "$2b$10$yhUj.JT7oN/llm6wqz4P9.JNLUI/9EqXzhCc2dVhGwqTYxi8USgUS",
+      "id": 1723997746424
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "$2b$10$4UwssPdpffeITxR10NU3vunvfsYX8/7dYRyD6dXkqtmfTYBfb4iky",
+      "id": 1723999795165
+    }
+  ]
+}
